@@ -1,4 +1,5 @@
-InterfacesInteligentes07
+#InterfacesInteligentes07
+
 # Microphone and Camera Integration in Unity
 
 This repository contains two Unity scripts that demonstrate microphone recording and webcam integration for interactive applications. These scripts showcase the capture of audio and video, and provide features like real-time playback and frame capturing.
